@@ -1,6 +1,6 @@
 .idea/
 venv/
-**__pychace__/
+__pycache__/
 .pytest_cache/
 db.sqlite3
 .env
